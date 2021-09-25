@@ -1,0 +1,248 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.fondo-section img{
+    width: 1711px;
+    height: 851px;
+}
+.login-section .container{
+    position: absolute;
+    bottom: 76px;
+    left: 530px;
+    background-color:#333131b5;
+    width: 650px;
+    height: 700px;
+    border-radius: 62px;
+    box-shadow: 0 1.5px 3px 0 #000;
+    border: solid 0.5px #707070;
+    padding: 32px 59.5px 32px 59px;
+}
+.login-section .container img{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    margin: 0 2.5px 12.5px 12.5px;
+    bottom: 565px;
+    left: 277px;
+}
+.login-section .container h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 12.5px 10.5px 12.5px 5.5px;
+    font-size: 19px;
+    font-weight: 350;
+    line-height: 13;
+    padding-left: 156px;
+    color: #fff;
+    margin-top: -5px;
+}
+.login-section .container h3 a{
+    margin: 12.5px 111px 12.5px 2.5px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 8;
+    text-decoration: none;
+    padding-left: 11px;
+    color: #65e8fe;
+}
+.login-section .container .b1{
+    position: absolute;
+    text-decoration: none;
+    width: 250px;
+    height: 60px;
+    padding: 15px;
+    border-radius: 13px;
+    border: solid 0.5px #707070;
+    background-color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: normal;
+    text-align: right;
+    color: #707070;
+    bottom: 455px;
+    left: 65px;
+    
+}
+.login-section .container .b2{
+    position: absolute;
+    text-decoration: none;
+    width: 250px;
+    height: 60px;
+    padding: 15px;
+    border-radius: 13px;
+    border: solid 0.5px #707070;
+    background-color: #5e7cff;
+    font-size: 20px;
+    font-weight: 550;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: normal;
+    text-align: right;
+    color: #fff;
+    bottom: 455px;
+    left: 337px;
+}
+.b1 span{
+    position: absolute;
+    background-image: url('./assets/icons/google.svg');
+    width: 40px;
+    height: 40px;
+    right: 190px;
+    bottom: 10px;
+}
+.b2 span{
+    position: absolute;
+    background-image: url('./assets/icons/facebook.svg');
+    width: 17px;
+    height: 36px;
+    right: 212px;
+    bottom: 11px;
+}
+.container .linea1{
+    position: absolute;
+    width: 150px;
+    height: 1px;
+    margin: -10px;
+    background-color: #fff;
+    left: 90px;
+}
+.container p{
+    position: absolute;
+    margin: 12.5px 23.3px 19px 13px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    font-weight: 350;
+    line-height: 13;
+    color: #fff;
+    bottom: 286px;
+    left: 255px;
+}
+.container .linea2{
+    position: absolute;
+    width: 150px;
+    height: 1px;
+    margin: -10px;
+    background-color: #fff;
+    left: 430px;
+}
+.container .email-tittle{
+    position: absolute;
+    margin: 19px 5.5px 4.5px 40.5px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    color: #fffbfb;
+    left: 95px;
+    bottom: 360px;
+}
+.container .email-input{
+    position: absolute;
+    bottom: 310px;
+    width: 400px;
+    height: 40px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #fff9f9;
+    left: 121px;
+}
+.container .password-tittle{
+    position: absolute;
+    margin: 19px 5.5px 4.5px 40.5px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    color: #fffbfb;
+    left: 95px;
+    bottom: 260px;
+}
+.container .password-input{
+    position: absolute;
+    bottom: 210px;
+    width: 400px;
+    height: 40px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #fff9f9;
+    left: 121px;
+}
+.container h4{
+    position: absolute;
+    margin: 55px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 20;
+    text-align: left;
+    color: #a9a8a8;
+    left: 80px;
+}
+.container .activar-input{
+    position: absolute;
+    margin: 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    font-weight: 599;
+    color: #65e8fe;
+    line-height: 25;
+}
+.container .tittle-input{
+    position: absolute;
+    margin: 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    font-weight: 599;
+    color: #65e8fe;
+    line-height: 25;
+    left: 298px;
+    text-decoration: none;
+}
+.container .sing-in{
+    position: absolute;
+    text-decoration: none;
+    width: 400px;
+    height: 45px;
+    padding: 11px;
+    border-radius: 7.5px;
+    box-shadow: 0 1.5px 3px 0 rgba(0, 0, 0, 0.71);
+    border: solid 0.5px #707070;
+    background-image: linear-gradient(to right, #423068, #008fcc);
+    bottom: 50px;
+    left: 125px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1;
+    text-align: center;
+    color: #fff;
+}
+@media only screen and (max-width:360px){
+    .login-section .container{
+        position: absolute;
+        bottom: -400px;
+        left: 80px;
+        background-color:#333131b5;
+        width: 650px;
+        height: 700px;
+        border-radius: 62px;
+        box-shadow: 0 1.5px 3px 0 #000;
+        border: solid 0.5px #707070;
+        padding: 32px 59.5px 32px 59px;
+    }
+    .fondo-section img{
+        width: 800px;
+        height: 1450px;
+    }
+}
+
+
+
+
+
+
+
