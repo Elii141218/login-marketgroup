@@ -140,14 +140,12 @@
 }
 .container .email-input{
     position: absolute;
-    bottom: 310px;
+    margin-top: 60px;
+    margin-left: 60px;
     width: 400px;
     height: 40px;
-    margin: 5px;
-    padding: 10px;
-    border-radius: 8px;
-    background-color: #fff9f9;
-    left: 121px;
+    border-radius: 10px;
+    border: none;
 }
 .container .password-tittle{
     position: absolute;
@@ -161,30 +159,27 @@
     bottom: 260px;
 }
 .container .password-input{
-    position: absolute;
-    bottom: 210px;
+    position: relative;
     width: 400px;
     height: 40px;
-    margin: 5px;
-    padding: 10px;
-    border-radius: 8px;
-    background-color: #fff9f9;
-    left: 121px;
+    margin-top: 160px;
+    margin-left: 60px; 
+    border-radius: 10px;
+    border: none;
 }
 .container h4{
-    position: absolute;
-    margin: 55px;
+    margin-top: -135px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 16px;
     font-weight: bold;
     line-height: 20;
     text-align: left;
     color: #a9a8a8;
-    left: 80px;
+    margin-left: 70px;
 }
 .container .activar-input{
-    position: absolute;
-    margin: 40px;
+    margin-top: -340px;
+    margin-left: 40px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
     font-weight: 599;
@@ -193,7 +188,8 @@
 }
 .container .tittle-input{
     position: absolute;
-    margin: 40px;
+    margin-top: -450px;
+    margin-left: 40px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
     font-weight: 599;
